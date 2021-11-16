@@ -11,6 +11,6 @@ class BangerGamesController extends Controller
      */
     public function test()
     {
-        // TODO: show "gamer" parameter from POST request
+        // TODO: show "gamerId" int parameter from POST request as json response
     }
 }
