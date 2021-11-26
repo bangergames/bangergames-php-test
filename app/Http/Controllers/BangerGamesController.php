@@ -34,5 +34,6 @@ class BangerGamesController extends Controller
     public function test2()
     {
         // TODO: implement logic in new service and response format should be in JSON
+        // response should include balanced: true/false
     }
 }
